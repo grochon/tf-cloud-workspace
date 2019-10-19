@@ -1,0 +1,3 @@
+[submodule "tf-module-myapp"]
+	path = tf-module-myapp
+	url = https://github.com/grochon/tf-module-myapp.git
