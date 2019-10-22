@@ -9,4 +9,3 @@ module "myapp" {
   source = "./tf-module-myapp"
   foo = "baz"
 }
-
