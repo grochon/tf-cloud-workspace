@@ -7,5 +7,5 @@ resource "null_resource" "test" {
 
 module "myapp" {
   source = "./tf-module-myapp"
-  foo = "baz"
+  foo = "demo time!"
 }
